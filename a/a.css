@@ -1,0 +1,57 @@
+.Cyan {
+    color:#00FFFF
+}
+.tc {
+    text-align: center
+}
+.fs50 {
+    font-size:50px
+}
+.w250 {
+    width:250px
+}
+.h20 {
+    height:20px
+}
+.w150 {
+    width:150px
+}
+.w400 {
+    width:400px
+}
+.h400 {
+    height:400px
+}
+.h720 {
+    height:720px
+}
+.w50 {
+    width:50px
+}
+.h150 {
+    height:150px
+}
+.w720 {
+    width:720px
+}
+.b1,.b2>tr>td {
+    border:1px solid #0000FF
+}
+.b1 {
+    border-collapse:collapse
+}
+.w200 {
+    width:200px
+}
+.h50 {
+    height:50px
+}
+.h200 {
+    height:200px
+}
+.o{
+    opacity: 0.5;
+}
+.p20{
+    padding: 20px;
+}
