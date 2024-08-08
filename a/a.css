@@ -2,7 +2,7 @@
     color:#00FFFF
 }
 .tc {
-    text-align: center
+    text-align:center
 }
 .fs50 {
     font-size:50px
@@ -49,9 +49,15 @@
 .h200 {
     height:200px
 }
-.o{
-    opacity: 0.5;
+.o {
+    opacity:0.5
 }
-.p20{
-    padding: 20px;
+.p20 {
+    padding:20px
+}
+.w1080 {
+    width:1080px
+}
+.h1080 {
+    height:1080px
 }
