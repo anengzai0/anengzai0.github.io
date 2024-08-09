@@ -49,15 +49,24 @@
 .h200 {
     height:200px
 }
-.o {
+.o0_5 {
     opacity:0.5
 }
 .p20 {
     padding:20px
 }
+.h1080 {
+    height:1080px
+}
+.bgr {
+    background:#f00
+}
+.p180 {
+    padding:180px
+}
 .w1080 {
     width:1080px
 }
-.h1080 {
-    height:1080px
+.fs10 {
+    font-size:10px
 }
