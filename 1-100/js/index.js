@@ -1,0 +1,1 @@
+var a = 1;document.write('<table width="1080" height="1080"><tbody>');while (a < 101) {document.write('<tr>');var b = 0;while (b < 10) {var c = a;document.write('<td><p>' + c + '</p></td>');a++;b++;};document.write('<tr>');};document.write('</tbody></table>');
