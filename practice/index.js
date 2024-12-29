@@ -1,0 +1,1 @@
+var r=false,h,p=document.getElementById("p"),i=document.getElementById("i"),b=document.getElementById("b"),f=document.getElementById("f");function y(){if(i.value==r){g++;h="答案正确"}else{g--;h="答案错误"}};function z(n){return Math.floor(Math.random()*n+1)};function x(){f.textContent=`分数:${g}`;i.value=""};i.onkeydown=function(e){if(e.keyCode===13){a()}};b.onclick=function(){a()};a()
