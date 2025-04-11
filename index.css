@@ -1,1 +1,1 @@
-p{font-size:50px;color:#000}h1{font-size:60px}a{color:#000;display:block;float:left;margin:0px 20px}.d1{width:1080px;height:1080px;padding:180px}.d2{border-radius:50%;overflow:hidden;width:720px;height:720px;border:10px solid #000;box-shadow:inset 5px 5px 5px rgba(0,0,0,0.5)}.i{width:720px;height:720px}
+@font-face{font-family:'mono';src:url('mono.ttf')}@font-face{font-family:'CMmono';src: url('CMmono.otf');}*{font-family:'mono'}button,select,a{text-decoration:none;border:0;background:#e0e0e0;border-radius:10px;color:#404040;padding:3px}body{background:#F0F0F0}a{margin:5px}

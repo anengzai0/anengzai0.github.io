@@ -1,0 +1,1 @@
+window.a=d=>{for(var a=0,b='';a<d.length;a++){b+=`<a href='./${d[a][1]}/'>${d[a][0]}</a>`}return b}
