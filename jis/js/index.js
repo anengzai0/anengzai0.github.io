@@ -1,0 +1,1 @@
+var t,i,d=!![],b=a=>a<10?'0'+a:a;k.onmouseup=()=>{d&&(()=>{t=_.Date.getTime();d=!d})();i=setInterval(()=>{var n=_.Date.getTime()-t;p.innerHTML=`${b(Math.floor(n/3600000))}:${b(Math.floor(n/60000)%60)}:${b(Math.floor(n/1000)%60)}.${(a=>a<100?(a<10?'00'+a:'0'+a):a)(n%1000)}`},0)};z.onmousedown=()=>clearInterval(i);c.onclick=()=>{d=!![];p.innerHTML='00:00:00.000'};c.click()
